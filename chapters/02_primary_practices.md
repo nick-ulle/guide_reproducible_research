@@ -1,6 +1,8 @@
 Primary Practices
 =================
 
+This is a test.
+
 This chapter covers primary practices for reproducibility. At DataLab, we adopt
 these practices for every project, and we recommend that you do too.  They'll
 ensure that you can work on projects efficiently, without being slowed down by
