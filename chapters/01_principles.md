@@ -1,6 +1,8 @@
 (introduction)=
 # Principles of Reproducibility
 
+Hi!
+
 A research project is **reproducible** if a different researcher can carry out
 the same analysis with the same data and produce the same overall result. A
 reproducible project is transparent about the research process and facilitates
